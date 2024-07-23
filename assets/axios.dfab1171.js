@@ -1,1 +1,0 @@
-import{b as s,a as o}from"./index.193de406.js";const t=o.create({baseURL:"https://kadana-incl-totals.ew.r.appspot.com/"});var e=s(({app:a})=>{a.config.globalProperties.$axios=o,a.config.globalProperties.$api=t});export{t as api,e as default};
